@@ -123,6 +123,7 @@ padding:0.8rem;
 }
 .hero .hero-ssg{
     max-width: 500px;
+    margin: auto;
 }
 
 .hero .hero-heading{
